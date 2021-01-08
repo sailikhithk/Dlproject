@@ -1,4 +1,4 @@
-## DEEP LEARNING - REAL-TIME 3D OBJECT DETECTION
+## DEEP LEARNING - REAL-TIME 3D OBJECT DETECTION WITH COMPLEX_YOLO
 3D object detection has become inevitable for day-to-day applications be it autonomous driving or constructing images or even for augmented reality since it directly links to environmental understanding and therefore builds the base for prediction and motion planning. But, in the case of real-time 3D object detection, we need to deal with highly sparse data considering its usage amongst real-life objects. In those cases, it is extremely inefficient to process data in general methods of detection and also to reduce the noise during this process is tiresome.
 
 ## MODEL:
